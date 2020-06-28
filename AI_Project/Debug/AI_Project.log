@@ -1,0 +1,8 @@
+﻿  8Puzzle.cpp
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(384,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(437,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(453,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(680,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(840,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\8Puzzle.cpp(856,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AI_Project.vcxproj -> C:\NCT\Năm 2\Kì 2\Trí tuệ nhân tạo\AI_Project\Debug\AI_Project.exe
